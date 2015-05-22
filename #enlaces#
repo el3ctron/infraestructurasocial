@@ -1,0 +1,5 @@
+En este archivo se van documentando los enlaces a los programas útiles del proyecto, para luego ensamblarlos en los instaladores.
+El formato será [nombre programa] [utilidad del programa] [enlace] [sistema operativo]
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+[dia][programa para diagramar en uml][http://sourceforge.net/projects/dia-installer/files/dia-win32-installer/0.97.2/dia-setup-0.97.2-2-unsigned.exe/download][windows]
+[dia][programa para diagramar en uml][http://sourceforge.net/projects/dia-installer/files/dia/0.97.2/dia_0.97.2_win32.zip/download][windows portable]
